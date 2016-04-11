@@ -1,0 +1,1 @@
+Ce fichier décrit la réalisation de l'activité de la partie 2
